@@ -1,3 +1,3 @@
-#Playing around with GraphQL. 
+Playing around with GraphQL. 
 
-###Starting with Phillipp Lackner's tutorial
+Starting with Phillipp Lackner's tutorial
